@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ouc30dgec-dotnet-basic-repository
+spec:
+  url: https://github.com/tnevrlka-rhtap/ouc30dgec-dotnet-basic
